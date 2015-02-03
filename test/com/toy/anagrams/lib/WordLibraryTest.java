@@ -42,6 +42,7 @@ public class WordLibraryTest extends TestCase {
 
     public WordLibraryTest(String testName) {
         super(testName);
+        //LOOOOOOOOOOOOOODIIIIIII GORGEOUS!
     }
 
     protected void setUp() throws Exception {
