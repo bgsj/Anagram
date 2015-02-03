@@ -32,6 +32,7 @@
 package com.toy.anagrams.lib;
 
 /**
+ * GORGEOUS ME YAY!
  * Interface defining logic for the Anagram Game application.
  */
 public abstract class WordLibrary {
